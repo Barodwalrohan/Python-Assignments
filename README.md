@@ -1,2 +1,2 @@
 # Python-Assignments
-All the given assignments are uplloaded below.
+All the given assignments are uploaded.
